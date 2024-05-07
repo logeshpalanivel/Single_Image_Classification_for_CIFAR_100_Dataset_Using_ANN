@@ -1,0 +1,1 @@
+# Single_Image_Classification_for_CIFAR_100_Dataset_Using_ANN
